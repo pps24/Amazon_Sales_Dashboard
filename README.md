@@ -20,7 +20,7 @@ Access the Amazon Sales Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoi
 - Sales Units
 
 ### Products Page
-![Products Page](Products.png)
+![Products Page](Product.png)
 - Product Category Slicer
 - List of All Products
 
